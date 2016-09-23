@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import CartItem from './CartItem'
 import Store from '../../store'
 
-console.log(Store);
-
 class Cart extends Component {
 
     constructor(props) {

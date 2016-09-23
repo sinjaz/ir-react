@@ -17,6 +17,4 @@ Store.subscribe(() =>
   console.log(Store.getState())
 )
 
-console.log(Store);
-
 export default Store;
